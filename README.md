@@ -20,7 +20,7 @@ A simple and clean Todo List built with **React**. This project focuses on maste
 
 ## Live Demo
 
-- Hosted on **Netlify**: [View Live App](https://your-netlify-link.netlify.app)
+- [View Live App](https://react-todo-app-ntk.netlify.app/)
 
 ## Data Persistence
 
