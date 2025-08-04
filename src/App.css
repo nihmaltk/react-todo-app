@@ -74,7 +74,7 @@
   height: 3px;
   background-color: #007bff;
   border-radius: 2px;
-}
+} 
 
 /* TodoCards */
 .todo-item {
@@ -137,7 +137,7 @@
     width: 100%;
     justify-content: flex-start;
   }
-}
+} 
 
 /* TodoInput */
 .input-container {
@@ -196,14 +196,4 @@
   .input-container button {
     width: 100%;
   }
-}
-
-
-
-
-
-
-
-
-
- 
+} 

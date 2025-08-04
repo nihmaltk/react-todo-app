@@ -14,8 +14,9 @@ A simple and clean Todo List built with **React**. This project focuses on maste
 
 ## Technologies Used
 
-- **React** (Functional Components + Hooks)
-- **CSS3**
+- **React** (Vite)
+- **React Hooks: useState, useEffect**
+- **CSS3** (custom, mobile-first)
 - **Font Awesome** (for icons)
 
 ## Live Demo
@@ -26,15 +27,11 @@ A simple and clean Todo List built with **React**. This project focuses on maste
 
 This app uses **localStorage** along with the `useEffect` hook to persist tasks across browser reloads. Your tasks are saved automatically every time you add, complete, or delete a task.
 
-## Note
+## Focus Areas
 
-This project is designed as a **learning project**, focusing more on understanding React fundamentals and less on pixel-perfect UI. It serves as a foundational step in building more complex applications.
-
-## What You Can Learn from This Project
-
-- How to manage state and props in React
-- How to structure a multi-component React app
-- How to persist data using `localStorage`
-- How to implement filtering and condition-based UI
-- Basic responsive layout techniques
+- Managing state and props in React
+- Structuring a multi-component React app
+- Using localStorage for data persistence
+- Filtering and condition-based rendering
+- Applying basic responsive layout techniques
 
